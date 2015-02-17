@@ -1,6 +1,6 @@
 State-Open-Data-Census
 ======================
-Working towards a US State Open Data Census
+Working towards a US State Open Data Census. Seeking your thoughts on datasets here: http://goo.gl/forms/aOa1Q8DWPd
 
 Would you like to help? Right now we're seeking information from people with subject-matter expertise in different state-level datasets. We're working to identify key datasets in the following categories:
 * Companies
