@@ -1,7 +1,7 @@
 ,Companies,Incarceration,State-Owned Real Estate,Checkbook,Address Points,Legislative Data,Restaurant Inspections,Population Projections,Vehicle Crashes
 Alabama,,,,http://open.alabama.gov/spending_checkbook.aspx,,,,,
 Alaska,,,,http://doa.alaska.gov/dof/reports/ckbkonline.html,,,,,
-Arizona,,,,http://www.azcheckbook.com/,,,,,
+Arizona,http://www.azcc.gov/Divisions/Corporations/faq.asp#computer5,https://corrections.az.gov/reports-documents/statistics,no,http://www.azcheckbook.com/,no,no,no,https://population.az.gov/,http://azdot.gov/mvd/Statistics/arizona-motor-vehicle-crash-facts
 Arkansas,https://www.commerce.state.ak.us/CBP/Main/,,,http://transparency.arkansas.gov/Pages/default.aspx,http://gis.arkansas.gov/?product=situs-address-points,,,,
 California,,,,,,,,,
 Colorado,,,,https://www.colorado.gov/apps/oit/transparency/index.html,,,,,
@@ -32,7 +32,7 @@ Nevada,,,,,,,,,
 New Hampshire,,,,,,,,,
 New Jersey,,,,,,,,,
 New Mexico,,,,http://www.sunshineportalnm.com/sample/#section=Purchases,,,,,
-New York,,,,,http://gisservices.dhses.ny.gov/arcgis/rest/services/SAM_Address_Points/MapServer/1,,,,
+New York,http://www.dos.ny.gov/corps/bus_entity_search.html,http://www.criminaljustice.ny.gov/opca/statistics.htm,http://www.tax.ny.gov/research/property/valuation/sol/index.htm,http://www.openbooknewyork.com/,http://gisservices.dhses.ny.gov/arcgis/rest/services/SAM_Address_Points/MapServer/1,http://www.nysenate.gov/open,https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,http://labor.ny.gov/stats/nys/statewide-population-data.shtm,http://dmv.ny.gov/org/about-dmv/statistical-summaries
 North Carolina,,,,,http://data.nconemap.com/geoportal/catalog/search/resource/details.page?uuid=%7B9E039D56-5202-43E7-8D36-D09414C0DBD6%7D,,,,
 North Dakota,,,,,,,,,
 Ohio,,,,http://tos.ohio.gov/transparency/ohios-online-checkbook,,,,,
