@@ -9,7 +9,7 @@ Connecticut,,,,,,,,,
 Delaware,,,,http://checkbook.delaware.gov/,,,,,
 District of Columbia,,,,,https://github.com/openaddresses/openaddresses/blob/master/sources/us-dc.json,,,,
 Florida,http://www.sunbiz.org/,http://www.dc.state.fl.us/pub/,http://www.dms.myflorida.com/business_operations/real_estate_development_and_management/facilities_management/florida_state_owned_lands_and_records_information_system_fl_solaris,http://flair.dbf.state.fl.us/dispub2/newvpymt4.shtml,no,no,http://www.floridahealth.gov///statistics-and-data/eh-tracking-and-reporting/food-hygiene.html,http://edr.state.fl.us/Content/population-demographics/data/,http://www.flhsmv.gov/html/safety.html
-Georgia,http://gta.georgia.gov/bulk-corporations-data,,,http://www.open.georgia.gov/psa/poSearch.aud,,,,,
+Georgia,http://gta.georgia.gov/bulk-corporations-data,no,http://gspc.georgia.gov/,http://www.open.georgia.gov/psa/poSearch.aud,no,no,https://dph.georgia.gov/environmental-health-inspections,https://opb.georgia.gov/population-projections,http://www.gahighwaysafety.org/research/
 Guam,,,,,,,,,
 Hawaii,,,,,,,,,
 Idaho,,,,,,,,,
