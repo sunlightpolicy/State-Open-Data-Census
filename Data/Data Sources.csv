@@ -3,12 +3,12 @@ Alabama,,,,http://open.alabama.gov/spending_checkbook.aspx,,,,,
 Alaska,,,,http://doa.alaska.gov/dof/reports/ckbkonline.html,,,,,
 Arizona,http://www.azcc.gov/Divisions/Corporations/faq.asp#computer5,https://corrections.az.gov/reports-documents/statistics,no,http://www.azcheckbook.com/,no,no,no,https://population.az.gov/,http://azdot.gov/mvd/Statistics/arizona-motor-vehicle-crash-facts
 Arkansas,https://www.commerce.state.ak.us/CBP/Main/,,,http://transparency.arkansas.gov/Pages/default.aspx,http://gis.arkansas.gov/?product=situs-address-points,,,,
-California,,,,,,,,,
+California,http://kepler.sos.ca.gov/,http://www.cdcr.ca.gov/Reports_Research/Offender_Information_Services_Branch/Offender_Information_Reports.html,http://www.spi.dgs.ca.gov/wscripts/spi.asp?action=Main,no,no,no,http://www.ca.gov/OnlineServices/OS_Consumers_inspections.html,http://www.dof.ca.gov/research/demographic/reports/projections/,http://www.ots.ca.gov/Media_and_Research/Data_and_Statistics.asp
 Colorado,,,,https://www.colorado.gov/apps/oit/transparency/index.html,,,,,
 Connecticut,,,,,,,,,
 Delaware,,,,http://checkbook.delaware.gov/,,,,,
 District of Columbia,,,,,https://github.com/openaddresses/openaddresses/blob/master/sources/us-dc.json,,,,
-Florida,,,,http://flair.dbf.state.fl.us/dispub2/newvpymt4.shtml,,,,,
+Florida,http://www.sunbiz.org/,http://www.dc.state.fl.us/pub/,http://www.dms.myflorida.com/business_operations/real_estate_development_and_management/facilities_management/florida_state_owned_lands_and_records_information_system_fl_solaris,http://flair.dbf.state.fl.us/dispub2/newvpymt4.shtml,no,no,http://www.floridahealth.gov///statistics-and-data/eh-tracking-and-reporting/food-hygiene.html,http://edr.state.fl.us/Content/population-demographics/data/,http://www.flhsmv.gov/html/safety.html
 Georgia,http://gta.georgia.gov/bulk-corporations-data,,,http://www.open.georgia.gov/psa/poSearch.aud,,,,,
 Guam,,,,,,,,,
 Hawaii,,,,,,,,,
