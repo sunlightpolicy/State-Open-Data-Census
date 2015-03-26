@@ -35,10 +35,10 @@ New Mexico,,,,http://www.sunshineportalnm.com/sample/#section=Purchases,,,,,
 New York,http://www.dos.ny.gov/corps/bus_entity_search.html,http://www.criminaljustice.ny.gov/opca/statistics.htm,http://www.tax.ny.gov/research/property/valuation/sol/index.htm,http://www.openbooknewyork.com/,http://gisservices.dhses.ny.gov/arcgis/rest/services/SAM_Address_Points/MapServer/1,http://www.nysenate.gov/open,https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,http://labor.ny.gov/stats/nys/statewide-population-data.shtm,http://dmv.ny.gov/org/about-dmv/statistical-summaries
 North Carolina,,,,,http://data.nconemap.com/geoportal/catalog/search/resource/details.page?uuid=%7B9E039D56-5202-43E7-8D36-D09414C0DBD6%7D,,,,
 North Dakota,,,,,,,,,
-Ohio,,,,http://tos.ohio.gov/transparency/ohios-online-checkbook,,,,,
+Ohio,http://www.sos.state.oh.us/SOS/Businesses.aspx,http://www.drc.ohio.gov/web/reports/reports.htm,no,http://tos.ohio.gov/transparency/ohios-online-checkbook,no,http://gis3.oit.ohio.gov/geodatadownload/lbrs.aspx,no,http://development.ohio.gov/reports/reports_pop_proj_map.htm,https://ext.dps.state.oh.us/crashstatistics/crashreports.aspx
 Oklahoma,,,,https://okreporting.ok.gov/analytics/saw.dll?Dashboard&PortalPath=/shared/Treasurer/_portal/Checkbook&Page=Checkbook&NQUser=HR83Ty4j&NQPassword=9OmY3m!q,,,,,
 Oregon,,,,,,,,,
-Pennsylvania,,,,,,,,,
+Pennsylvania,http://www.dos.pa.gov/BusinessCharities/Business/Pages/default.aspx,http://www.portal.state.pa.us/portal/server.pt/community/statistics/5393/corrections_statistics/494658,https://www.portal.state.pa.us/portal/server.pt/community/real_estate/1346,http://www.pennwatch.pa.gov/spending/,no,can’t find; OS says yes,http://www.agriculture.state.pa.us/portal/server.pt/gateway/PTARGS_0_2_75292_10297_0_43/AgWebsite/ProgramDetail.aspx?name=Food-Safety-Inspection-Results&navid=12&parentnavid=0&palid=54&,http://pasdc.hbg.psu.edu/Data/Projections/tabid/1013/Default.aspx,http://www.dot.state.pa.us/Internet/Bureaus/pdBHSTE.nsf/InfoFbListing?OpenForm
 Puerto Rico,,,,,,,,,
 Rhode Island,,,,http://www.ri.gov/opengovernment/,http://www.edc.uri.edu/rigis/data/data.aspx?ISO=structure,,,,
 South Carolina,,,,https://ssl.sc.gov/SpendingTransparency/MonthlyExpenditureMain.aspx,,,,,
