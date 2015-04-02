@@ -25,16 +25,16 @@ Florida,Address Points,no,0,,,,,,,,,,,,,,,,,,0,FL has no repo.,,,,
 Florida,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,FL has no repo.,,,,
 Florida,Restaurant Inspections,http://www.floridahealth.gov///statistics-and-data/eh-tracking-and-reporting/food-hygiene.html,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,1,
 Florida,Population Projections,http://edr.state.fl.us/Content/population-demographics/data/,1,,1,,1,,1,,1,,0,PDF.,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,0,No FIPS codes.
-Florida,Vehicle Crashes,http://www.flhsmv.gov/resource-center/crash-citation-reports/,,,,,,,,,,,,,,,,,,,0,FL has no repo.,,,,
-Georgia,Companies,http://gta.georgia.gov/bulk-corporations-data,,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,Incarceration,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,State-Owned Real Estate,http://gspc.georgia.gov/,,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,Checkbook,http://www.open.georgia.gov/psa/poSearch.aud,,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,Address Points,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,Legislative Data,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,Restaurant Inspections,https://dph.georgia.gov/environmental-health-inspections,,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,Population Projections,https://opb.georgia.gov/population-projections,,,,,,,,,,,,,,,,,,,,,,,,
-Georgia,Vehicle Crashes,http://www.gahighwaysafety.org/research/,,,,,,,,,,,,,,,,,,,,,,,,
+Florida,Vehicle Crashes,http://www.flhsmv.gov/resource-center/crash-citation-reports/,1,,1,,1,,1,,1,,0,PDF,0,,0,"Copyright statement in footer says the data is owned by “Appriss, Inc.”",0,,0,FL has no repo.,0,,0,"These are statistics, not data."
+Georgia,Companies,http://gta.georgia.gov/bulk-corporations-data,1,,1,,1,,0,"Viewing information in HTML is free, but the data is sold for $1,000.",1,,1,"Pipe-delimited text is available, but the data must be bought in bulk for $1,000.",1,"Bulk data is sold for $1,000.",0,Site is silent on copyright and license.,1,,0,GA has no repo.,1,Site uses SSL.,1,
+Georgia,Incarceration,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
+Georgia,State-Owned Real Estate,http://gspc.georgia.gov/,1,,1,,1,,1,,1,,0,"Core data as HTML, detailed data as PDFs.",0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,1,Site uses SSL.,0,No consistent location identifiers.
+Georgia,Checkbook,http://www.open.georgia.gov/psa/poSearch.aud,1,,1,,1,,1,,1,,1,Query results can be exported as CSV.,0,,0,Footer says data is copyright “DOAA.”,0,"Transactions have no date, so it’s impossible to know.",0,GA has no repo.,0,,0,"Lacks date, check number, and expense category."
+Georgia,Address Points,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
+Georgia,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
+Georgia,Restaurant Inspections,https://dph.georgia.gov/environmental-health-inspections,1,,1,,1,,1,,1,,0,,0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,0,,0,Not all counties’ data is available.
+Georgia,Population Projections,https://opb.georgia.gov/population-projections,1,,1,,1,,1,,0,Data is obtained by e-mailing a PDF request form. I have not attempted to request it.,,,0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,0,"Site uses SSL, but the data is provided by e-mail.",,
+Georgia,Vehicle Crashes,http://www.gahighwaysafety.org/research/,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,0,GA has no repo.,0,,0,"These are statistics, not data."
 Illinois,Companies,http://www.cyberdriveillinois.com/departments/business_services/home.html,,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,Incarceration,http://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx,,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
