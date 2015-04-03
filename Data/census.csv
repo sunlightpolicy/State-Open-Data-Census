@@ -44,15 +44,15 @@ Illinois,Legislative Data,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,Population Projections,http://www2.illinoisbiz.biz/popProj/,1,,1,,1,,1,,1,,1,,1,,0,Site is silent on copyright and license.,0,Appears to be more than a decade old.,0,"There appears to be an entry for this in the repo, but it’s password-protected.",0,,0,No GNIS IDs.
 Illinois,Vehicle Crashes,http://www.idot.illinois.gov/transportation-system/safety/Illinois-Roadway-Crash-Data,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,0,,0,,0,"These are statistics, not data."
-Michigan,Companies,http://www.dleg.state.mi.us/bcs_corp/sr_corp.asp,,,,,,,,,,,,,,,,,,,,,,,,
-Michigan,Incarceration,"https://www.michigan.gov/corrections/0,4551,7-119-1441---,00.html",,,,,,,,,,,,,,,,,,,,,,,,
+Michigan,Companies,http://www.dleg.state.mi.us/bcs_corp/sr_corp.asp,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,,0,,1,
+Michigan,Incarceration,"https://www.michigan.gov/corrections/0,4551,7-119-1441---,00.html",,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,0,,1,Site uses SSL.,,Does not provide per-facility records.
 Michigan,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Michigan,Checkbook,http://media.state.mi.us/MiTransparency,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan,Checkbook,http://media.state.mi.us/MiTransparency,1,,1,,1,,1,,1,,0,Flash application.,0,,0,Copyright statement in footer.,0,Data is more than a month old.,0,,0,,0,Does not provide transaction-level data.
 Michigan,Address Points,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Michigan,Legislative Data,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Michigan,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Michigan,Population Projections,"http://www.michigan.gov/cgi/0,4548,7-158-54534_51713_51716---,00.html",,,,,,,,,,,,,,,,,,,,,,,,
-Michigan,Vehicle Crashes,http://www.michigantrafficcrashfacts.org/,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan,Population Projections,"http://www.michigan.gov/cgi/0,4548,7-158-54534_51713_51716-116118--,00.html",1,,1,,1,,1,,1,,1,Excel files.,1,,0,Copyright statement in footer.,0,Does not appear to have been updated for perhaps a decade.,0,,0,,0,Does not provide GNIS IDs.
+Michigan,Vehicle Crashes,http://www.michigantrafficcrashfacts.org/,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,1,Maybe? See https://data.michigan.gov/dataset/MIAccidents/efay-8wge,,,,
 New Jersey,Companies,https://www.njportal.com/dor/businessrecords/,,,,,,,,,,,,,,,,,,,,,,,,
 New Jersey,Incarceration,http://www.state.nj.us/corrections/pages/offender_stats.html,,,,,,,,,,,,,,,,,,,,,,,,
 New Jersey,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
