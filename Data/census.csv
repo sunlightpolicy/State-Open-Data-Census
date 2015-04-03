@@ -4,7 +4,7 @@ Arizona,Incarceration,https://corrections.az.gov/reports-documents/statistics,,,
 Arizona,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,0,AZ has no repo.,0,,,
 Arizona,Checkbook,http://www.azcheckbook.com/,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,AZ has no repo.,0,,0,
 Arizona,Address Points,no,0,,,,,,,,,,,,,,,,,,0,AZ has no repo.,0,,,
-Arizona,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,AZ has no repo.,0,,,
+Arizona,Legislative Data,,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,AZ has no repo.,0,,1,
 Arizona,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,0,AZ has no repo.,0,,,
 Arizona,Population Projections,https://population.az.gov/,1,,1,,1,,1,,1,,1,Excel files.,1,,0,,1,,0,AZ has no repo.,0,,0,No GNIS IDs.
 Arizona,Vehicle Crashes,http://azdot.gov/mvd/Statistics/arizona-motor-vehicle-crash-facts,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,AZ has no repo.,0,,0,"These are statistics, not data."
@@ -13,7 +13,7 @@ California,Incarceration,http://www.cdcr.ca.gov/Reports_Research/Offender_Inform
 California,State-Owned Real Estate,http://www.spi.dgs.ca.gov/wscripts/spi.asp?action=Main,1,,1,,1,,1,,1,,0,,0,,,,,,,,,,,
 California,Checkbook,no,0,,,,,,,,,,,,,,,,,,,,,,,
 California,Address Points,no,0,,,,,,,,,,,,,,,,,,,,,,,
-California,Legislative Data,no,0,,,,,,,,,,,,,,,,,,,,,,,
+California,Legislative Data,ftp://www.leginfo.ca.gov/pub/,1,,1,,1,,1,,1,,1,As SQL dumps and as TSV. See ftp://www.leginfo.ca.gov/pub/bill/pubinfo_Readme.pdf,1,,0,“Conditions of Use Policy” says that “some information may be protected by copyright.”,1,,0,,0,,1,
 California,Restaurant Inspections,http://www.ca.gov/OnlineServices/OS_Consumers_inspections.html,0,They just link to some counties’ websites.,,,,,,,,,,,,,,,,,,,,,,
 California,Population Projections,http://www.dof.ca.gov/research/demographic/reports/projections/,1,,1,,1,,1,,1,,1,Excel files,1,,0,Copyright statement in footer.,1,,0,,0,,1,
 California,Vehicle Crashes,http://www.ots.ca.gov/Media_and_Research/Data_and_Statistics.asp,1,,1,,1,,1,,1,,1,Excel files,1,,0,Copyright statement in footer.,0,Most recent data is from 2012.,1,,0,,0,"These are statistics, not data."
@@ -22,7 +22,7 @@ Florida,Incarceration,http://www.dc.state.fl.us/pub/,,,,,,,,,,,,,,,,,,,0,FL has 
 Florida,State-Owned Real Estate,http://www.dms.myflorida.com/business_operations/real_estate_development_and_management/facilities_management/florida_state_owned_lands_and_records_information_system_fl_solaris,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,0,"Data is from 2013, while other data on the site is updated constantly.",0,FL has no repo.,0,,1,
 Florida,Checkbook,http://flair.dbf.state.fl.us/dispub2/newvpymt4.shtml,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,0,No expense category.
 Florida,Address Points,no,0,,,,,,,,,,,,,,,,,,0,FL has no repo.,,,,
-Florida,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,FL has no repo.,,,,
+Florida,Legislative Data,http://www.leg.state.fl.us/,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,1,
 Florida,Restaurant Inspections,http://www.floridahealth.gov///statistics-and-data/eh-tracking-and-reporting/food-hygiene.html,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,1,
 Florida,Population Projections,http://edr.state.fl.us/Content/population-demographics/data/,1,,1,,1,,1,,1,,0,PDF.,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,0,No GNIS IDs.
 Florida,Vehicle Crashes,http://www.flhsmv.gov/resource-center/crash-citation-reports/,1,,1,,1,,1,,1,,0,PDF,0,,0,"Copyright statement in footer says the data is owned by “Appriss, Inc.”",0,,0,FL has no repo.,0,,0,"These are statistics, not data."
@@ -31,7 +31,7 @@ Georgia,Incarceration,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
 Georgia,State-Owned Real Estate,http://gspc.georgia.gov/,1,,1,,1,,1,,1,,0,"Core data as HTML, detailed data as PDFs.",0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,1,Site uses SSL.,0,No consistent location identifiers.
 Georgia,Checkbook,http://www.open.georgia.gov/psa/poSearch.aud,1,,1,,1,,1,,1,,1,Query results can be exported as CSV.,0,,0,Footer says data is copyright “DOAA.”,0,"Transactions have no date, so it’s impossible to know.",0,GA has no repo.,0,,0,"Lacks date, check number, and expense category."
 Georgia,Address Points,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
-Georgia,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
+Georgia,Legislative Data,http://www.legis.ga.gov/,1,,1,,1,,1,,1,,0,,0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,0,,1,
 Georgia,Restaurant Inspections,https://dph.georgia.gov/environmental-health-inspections,1,,1,,1,,1,,1,,0,,0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,0,,0,Not all counties’ data is available.
 Georgia,Population Projections,https://opb.georgia.gov/population-projections,1,,1,,1,,1,,0,Data is obtained by e-mailing a PDF request form. I have not attempted to request it.,,,0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,0,"Site uses SSL, but the data is provided by e-mail.",,
 Georgia,Vehicle Crashes,http://www.gahighwaysafety.org/research/,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,0,GA has no repo.,0,,0,"These are statistics, not data."
@@ -40,7 +40,7 @@ Illinois,Incarceration,http://www2.illinois.gov/idoc/reportsandstatistics/Pages/
 Illinois,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,Checkbook,http://www.accountability.illinois.gov/,1,"Confusing, there are two Illinois checkbook sites. The other one is at http://ledger.illinoiscomptroller.com/. We evaluated the “accountability” site, because it is better.",1,,1,,1,,0,,0,,0,,0,Copyright statement in footer.,,1,0,,0,,0,"Doesn't provide payment dates, check numbers, transaction dates, or a transaction description."
 Illinois,Address Points,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Illinois,Legislative Data,no,0,,,,,,,,,,,,,,,,,,,,,,,
+Illinois,Legislative Data,no,1,,1,,1,,1,,1,,0,,0,,0,Site is silent on copyright and license.,1,,0,,0,,1,
 Illinois,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,Population Projections,http://www2.illinoisbiz.biz/popProj/,1,,1,,1,,1,,1,,1,,1,,0,Site is silent on copyright and license.,0,Appears to be more than a decade old.,0,"There appears to be an entry for this in the repo, but it’s password-protected.",0,,0,No GNIS IDs.
 Illinois,Vehicle Crashes,http://www.idot.illinois.gov/transportation-system/safety/Illinois-Roadway-Crash-Data,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,0,,0,,0,"These are statistics, not data."
@@ -49,19 +49,19 @@ Michigan,Incarceration,"https://www.michigan.gov/corrections/0,4551,7-119-1441--
 Michigan,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Michigan,Checkbook,http://media.state.mi.us/MiTransparency,1,,1,,1,,1,,1,,0,Flash application.,0,,0,Copyright statement in footer.,0,Data is more than a month old.,0,,0,,0,Does not provide transaction-level data.
 Michigan,Address Points,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Michigan,Legislative Data,no,0,,,,,,,,,,,,,,,,,,,,,,,
+Michigan,Legislative Data,no,1,,1,,1,,1,,1,,0,,0,,0,AUP says that “users must respect the legal protection provided by copyright…to…data made available by The Services.”,1,,0,,0,,1,
 Michigan,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Michigan,Population Projections,"http://www.michigan.gov/cgi/0,4548,7-158-54534_51713_51716-116118--,00.html",1,,1,,1,,1,,1,,1,Excel files.,1,,0,Copyright statement in footer.,0,Does not appear to have been updated for perhaps a decade.,0,,0,,0,Does not provide GNIS IDs.
 Michigan,Vehicle Crashes,http://www.michigantrafficcrashfacts.org/,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,1,Maybe? See https://data.michigan.gov/dataset/MIAccidents/efay-8wge,,,,
-New Jersey,Companies,https://www.njportal.com/dor/businessrecords/,,,,,,,,,,,,,,,,,,,,,,,,
-New Jersey,Incarceration,http://www.state.nj.us/corrections/pages/offender_stats.html,,,,,,,,,,,,,,,,,,,,,,,,
+New Jersey,Companies,https://www.njportal.com/dor/businessrecords/,1,,1,,1,,0,Records are $6.25 each.,1,,1,,0,Each record must be selected individually to be downloaded.,0,,1,,0,,1,Site uses SSL.,,Have not purchased data to verify.
+New Jersey,Incarceration,http://www.state.nj.us/corrections/pages/offender_stats.html,1,,1,,1,,1,,1,,0,PDF generated from Excel.,0,,0,Copyright statement in footer.,1,,0,,0,,0,Does not indicate facilities’ capacity or population change over time.
 New Jersey,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
-New Jersey,Checkbook,http://www.yourmoney.nj.gov/transparency/expenditures/,,,,,,,,,,,,,,,,,,,,,,,,
+New Jersey,Checkbook,http://www.yourmoney.nj.gov/transparency/expenditures/,1,,1,,1,,1,,1,,1,,1,If exported from portal.,0,Copyright statement in footer.,,,1,,1,Repo uses SSL.,1,
 New Jersey,Address Points,no,0,,,,,,,,,,,,,,,,,,,,,,,
-New Jersey,Legislative Data,http://www.njleg.state.nj.us/downloads.asp,,,,,,,,,,,,,,,,,,,,,,,,
+New Jersey,Legislative Data,http://www.njleg.state.nj.us/downloads.asp,1,,1,,1,,1,,1,,1,As a Microsoft Access database.,1,,0,Copyright statement in footer.,1,,0,,0,,1,
 New Jersey,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,,,,,,
-New Jersey,Population Projections,http://lwd.dol.state.nj.us/labor/lpa/dmograph/lfproj/lfproj_index.html,,,,,,,,,,,,,,,,,,,,,,,,
-New Jersey,Vehicle Crashes,http://www.state.nj.us/transportation/refdata/accident/,,,,,,,,,,,,,,,,,,,,,,,,
+New Jersey,Population Projections,http://lwd.dol.state.nj.us/labor/lpa/dmograph/lfproj/lfproj_index.html,1,,1,,1,,1,,1,,1,Excel files.,1,,0,Copyright statement in footer.,0,Last updated perhaps five years ago.,,repo down at the moment,0,,0,Does not provide GNIS IDs.
+New Jersey,Vehicle Crashes,http://www.state.nj.us/transportation/refdata/accident/,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,0,Last updated two years ago.,,repo down at the moment,0,,0,"These are statistics, not data."
 New York,Companies,http://www.dos.ny.gov/corps/bus_entity_search.html,,,,,,,,,,,,,,,,,,,,,,,,
 New York,Incarceration,http://www.criminaljustice.ny.gov/opca/statistics.htm,,,,,,,,,,,,,,,,,,,,,,,,
 New York,State-Owned Real Estate,http://www.tax.ny.gov/research/property/valuation/sol/index.htm,,,,,,,,,,,,,,,,,,,,,,,,
