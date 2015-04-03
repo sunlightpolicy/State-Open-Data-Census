@@ -6,7 +6,7 @@ Arizona,Checkbook,http://www.azcheckbook.com/,1,,1,,1,,1,,1,,0,,0,,0,Copyright s
 Arizona,Address Points,no,0,,,,,,,,,,,,,,,,,,0,AZ has no repo.,0,,,
 Arizona,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,AZ has no repo.,0,,,
 Arizona,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,0,AZ has no repo.,0,,,
-Arizona,Population Projections,https://population.az.gov/,1,,1,,1,,1,,1,,1,Excel files.,1,,0,,1,,0,AZ has no repo.,0,,0,No FIPS codes.
+Arizona,Population Projections,https://population.az.gov/,1,,1,,1,,1,,1,,1,Excel files.,1,,0,,1,,0,AZ has no repo.,0,,0,No GNIS IDs.
 Arizona,Vehicle Crashes,http://azdot.gov/mvd/Statistics/arizona-motor-vehicle-crash-facts,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,AZ has no repo.,0,,0,"These are statistics, not data."
 California,Companies,http://kepler.sos.ca.gov/,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,1,,0,,0,Doesn’t list shares or officers.
 California,Incarceration,http://www.cdcr.ca.gov/Reports_Research/Offender_Information_Services_Branch/Offender_Information_Reports.html,,,,,,,,,,,,,,,0,Copyright statement in footer.,1,Last updated 32 days ago.,0,,0,,1,
@@ -24,7 +24,7 @@ Florida,Checkbook,http://flair.dbf.state.fl.us/dispub2/newvpymt4.shtml,1,,1,,1,,
 Florida,Address Points,no,0,,,,,,,,,,,,,,,,,,0,FL has no repo.,,,,
 Florida,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,FL has no repo.,,,,
 Florida,Restaurant Inspections,http://www.floridahealth.gov///statistics-and-data/eh-tracking-and-reporting/food-hygiene.html,1,,1,,1,,1,,1,,0,,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,1,
-Florida,Population Projections,http://edr.state.fl.us/Content/population-demographics/data/,1,,1,,1,,1,,1,,0,PDF.,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,0,No FIPS codes.
+Florida,Population Projections,http://edr.state.fl.us/Content/population-demographics/data/,1,,1,,1,,1,,1,,0,PDF.,0,,0,Copyright statement in footer.,1,,0,FL has no repo.,0,,0,No GNIS IDs.
 Florida,Vehicle Crashes,http://www.flhsmv.gov/resource-center/crash-citation-reports/,1,,1,,1,,1,,1,,0,PDF,0,,0,"Copyright statement in footer says the data is owned by “Appriss, Inc.”",0,,0,FL has no repo.,0,,0,"These are statistics, not data."
 Georgia,Companies,http://gta.georgia.gov/bulk-corporations-data,1,,1,,1,,0,"Viewing information in HTML is free, but the data is sold for $1,000.",1,,1,"Pipe-delimited text is available, but the data must be bought in bulk for $1,000.",1,"Bulk data is sold for $1,000.",0,Site is silent on copyright and license.,1,,0,GA has no repo.,1,Site uses SSL.,1,
 Georgia,Incarceration,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
@@ -35,15 +35,15 @@ Georgia,Legislative Data,no,0,,,,,,,,,,,,,,,,,,0,GA has no repo.,,,,
 Georgia,Restaurant Inspections,https://dph.georgia.gov/environmental-health-inspections,1,,1,,1,,1,,1,,0,,0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,0,,0,Not all counties’ data is available.
 Georgia,Population Projections,https://opb.georgia.gov/population-projections,1,,1,,1,,1,,0,Data is obtained by e-mailing a PDF request form. I have not attempted to request it.,,,0,,0,Site is silent on copyright and license.,1,,0,GA has no repo.,0,"Site uses SSL, but the data is provided by e-mail.",,
 Georgia,Vehicle Crashes,http://www.gahighwaysafety.org/research/,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,0,GA has no repo.,0,,0,"These are statistics, not data."
-Illinois,Companies,http://www.cyberdriveillinois.com/departments/business_services/home.html,,,,,,,,,,,,,,,,,,,,,,,,
-Illinois,Incarceration,http://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx,,,,,,,,,,,,,,,,,,,,,,,,
+Illinois,Companies,http://www.cyberdriveillinois.com/departments/business_services/home.html,1,,1,,1,,1,,1,,0,,0,,0,Contains an explicit prohibition on “copying or downloading of the database information.”,1,,0,,0,,1,
+Illinois,Incarceration,http://www2.illinois.gov/idoc/reportsandstatistics/Pages/default.aspx,1,,1,,1,,1,,1,,0,"PDF, containing screenshots from Excel.",0,,0,Site is silent on copyright and license.,0,Most recent data is from 2013.,0,,0,,0,Does not indicate facilities’ capacity or population change over time.
 Illinois,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Illinois,Checkbook,http://ledger.illinoiscomptroller.com/,,,,,,,,,,,,,,,,,,,,,,,,
+Illinois,Checkbook,http://www.accountability.illinois.gov/,1,"Confusing, there are two Illinois checkbook sites. The other one is at http://ledger.illinoiscomptroller.com/. We evaluated the “accountability” site, because it is better.",1,,1,,1,,0,,0,,0,,0,Copyright statement in footer.,,1,0,,0,,0,"Doesn't provide payment dates, check numbers, transaction dates, or a transaction description."
 Illinois,Address Points,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,Legislative Data,no,0,,,,,,,,,,,,,,,,,,,,,,,
 Illinois,Restaurant Inspections,no,0,,,,,,,,,,,,,,,,,,,,,,,
-Illinois,Population Projections,https://data.illinois.gov/Economics/DCEO-County-Population-Projections/h3bx-hbbh,,,,,,,,,,,,,,,,,,,,,,,,
-Illinois,Vehicle Crashes,http://www.idot.illinois.gov/transportation-system/safety/Illinois-Roadway-Crash-Data,,,,,,,,,,,,,,,,,,,,,,,,
+Illinois,Population Projections,http://www2.illinoisbiz.biz/popProj/,1,,1,,1,,1,,1,,1,,1,,0,Site is silent on copyright and license.,0,Appears to be more than a decade old.,0,"There appears to be an entry for this in the repo, but it’s password-protected.",0,,0,No GNIS IDs.
+Illinois,Vehicle Crashes,http://www.idot.illinois.gov/transportation-system/safety/Illinois-Roadway-Crash-Data,1,,1,,1,,1,,1,,0,PDFs.,0,,0,Copyright statement in footer.,1,,0,,0,,0,"These are statistics, not data."
 Michigan,Companies,http://www.dleg.state.mi.us/bcs_corp/sr_corp.asp,,,,,,,,,,,,,,,,,,,,,,,,
 Michigan,Incarceration,"https://www.michigan.gov/corrections/0,4551,7-119-1441---,00.html",,,,,,,,,,,,,,,,,,,,,,,,
 Michigan,State-Owned Real Estate,no,0,,,,,,,,,,,,,,,,,,,,,,,
